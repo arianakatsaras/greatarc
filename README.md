@@ -20,3 +20,5 @@ distance
 
 ```
 
+git checkout -b <new-branch-name>
+git push -u origin <new-branch-name>
