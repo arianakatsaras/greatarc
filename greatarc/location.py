@@ -23,7 +23,7 @@ class Location:
         distance = radius * c
 
         # Convert to miles if specified (1 km = 0.621371 miles)
-    if unit == "miles":
-        distance *= 0.621371 
+        if unit == "miles":
+            distance *= 0.621371 
 
         return distance
