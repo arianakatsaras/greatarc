@@ -22,3 +22,5 @@ distance
 
 git checkout -b <new-branch-name>
 git push -u origin <new-branch-name>
+
+https://github.com/<your-username>/<your-repository>/settings/branches
